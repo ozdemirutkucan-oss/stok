@@ -1,0 +1,2 @@
+# stok
+stok programı
